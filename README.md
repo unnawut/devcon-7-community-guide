@@ -20,12 +20,12 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 
 <!-- @todo #1 Add general overview of Southeast Asia -->
 <!-- @todo #1 Add Southeast Asia's blockchain landscape -->
-[to be added]
+[contributions welcomed!]
 
 ## Getting to know Thailand and Bangkok
 
 <!-- @todo #1 Add more content about Thailand and Bangkok in general (non-crypto) -->
-[to be added]
+[contributions welcomed!]
 
 ### Thailand
 
@@ -162,6 +162,7 @@ If you have some time to spare after the event and after networking with crypto 
 ## Guide for Visiting Teams
 
 <!-- @todo #1 Add guide to organizing off-site in Thailand -->
+[contributions welcomed!]
 
 ## Guide for Side Events
 
@@ -183,21 +184,24 @@ Find below locations that are perfect for hanging and networking that have hoste
 - Verve Rachada Bangkok (previous event: Aceplore Bangkok 2022 networking party
 
 <!-- @todo #1 Add more side event venue options -->
+[contributions welcomed!]
 
 ### Side Events out of Bangkok
 
 <!-- @todo #1 Add guide to organizing side events out of Bangkok -->
-[to be added]
+[contributions welcomed!]
 
 ## Guide for Nomads
 
 <!-- @todo #1 Add visa information for nomads -->
+[contributions welcomed!]
 
 ## Guide for Company Setup
 
 <!-- @todo #1 Add info on business registration -->
 <!-- @todo #1 Add info on registering a web3 startup business -->
 <!-- @todo #1 Add info on applying for BOI company -->
+[contributions welcomed!]
 
 ## ข้อมูล Devcon สำหรับชาวไทย
 
