@@ -4,9 +4,9 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 
 ## Sections
 
-1. [Get to know Southeast Asia](#get-to-know-southeast-asia)
-1. [Get to know Thailand](#get-to-know-thailand)
-1. [Get to know Bangkok](#get-to-know-bangkok)
+1. [Getting to know Southeast Asia](#getting-to-know-southeast-asia)
+1. [Getting to know Thailand](#getting-to-know-thailand)
+1. [Getting to know Bangkok](#getting-to-know-bangkok)
 1. [Guide for visitors](#guide-for-visitors)
 1. [Guide for teams](#guide-for-teams)
 1. [Guide for side-events](#guide-for-side-events)
@@ -14,7 +14,7 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 1. [Guide for companies](#guide-for-companies)
 1. [ข้อมูล Devcon สำหรับชาวไทย](#ข้อมูล-devcon-สำหรับชาวไทย)
 
-## Get to know Southeast Asia
+## Getting to know Southeast Asia
 
 <!-- @todo #1 Add general overview of Southeast Asia -->
 
@@ -22,7 +22,7 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 
 <!-- @todo #1 Add Southeast Asia's blockchain landscape -->
 
-## Get to know Thailand
+## Getting to know Thailand
 
 <!-- @todo #1 Add general overview of Thailand -->
 
@@ -30,7 +30,7 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 
 <!-- @todo #1 Add Thailand's blockchain landscape -->
 
-## Get to know Bangkok
+## Getting to know Bangkok
 
 <!-- @todo #1 Add general overview of Bangkok -->
 
