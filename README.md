@@ -2,6 +2,8 @@
 
 Made with ❤️ by local Ethereum communities in Southeast Asia.
 
+![Devcon 7 Logo](devcon7logo.png)
+
 ## Sections
 
 1. [Getting to know Southeast Asia](#getting-to-know-southeast-asia)
