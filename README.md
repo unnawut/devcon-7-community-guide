@@ -10,6 +10,8 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 1. [Guide for visitors](#guide-for-visitors)
 1. [Guide for teams](#guide-for-teams)
 1. [Guide for side-events](#guide-for-side-events)
+1. [Guide for nomads](#guide-for-nomads)
+1. [Guide for companies](#guide-for-companies)
 1. [ข้อมูล Devcon สำหรับชาวไทย](#ข้อมูล-devcon-สำหรับชาวไทย)
 
 ## Get to know Southeast Asia
