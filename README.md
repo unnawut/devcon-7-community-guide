@@ -182,6 +182,8 @@ Find below locations that are perfect for hanging and networking that have hoste
 - Cleverse, Rungrojthanakul Building (previous event: DeFi Sunday)
 - Verve Rachada Bangkok (previous event: Aceplore Bangkok 2022 networking party
 
+<!-- @todo #1 Add more side event venue options -->
+
 ### Side Events out of Bangkok
 
 <!-- @todo #1 Add guide to organizing side events out of Bangkok -->
@@ -199,14 +201,21 @@ Find below locations that are perfect for hanging and networking that have hoste
 
 ## ข้อมูล Devcon สำหรับชาวไทย
 
-Devcon เป็นงานสัมมนาของนักพัฒนาใน Ethereum ecosystem ที่ใหญ่ที่สุดในโลก งาน Devcon ครั้งที่ผ่านมา (Devcon 6) ถูกจัดขึ้นที่เมืองโบโกตา ประเทศโคลัมเบีย มีผู้เข้าร่วมงานกว่า 6,000 คน และสปีกเกอร์กว่า 350 ตลอดงานทั้ง 4 วัน นอกจากนี้ งาน Devcon 6 ยังก่อให้เกิดงานคู่ขนานหรือ side events อีกกว่า 300+ งาน ดึงนักพัฒนา วิศวกรซอฟท์แวร์ และความสามารถอื่นๆ เข้ามาสัมผัส และถ่ายทอดความรู้ให้กับบุคลากรของประเทศผู้จัดมากมาย และก่อให้เกิดเงินสะพัดในเศรษฐกิจเมืองอีกนับไม่ถ้วน
+Devcon เป็นงานสัมมนาของนักพัฒนาใน Ethereum ecosystem ที่ใหญ่ที่สุดในโลก งาน Devcon ครั้งที่ผ่านมา (Devcon 6) ถูกจัดขึ้นที่เมืองโบโกตา ประเทศโคลัมเบีย ในช่วงเดือนตุลาคม 2565 มีผู้เข้าร่วมงานกว่า 6,000 คน และสปีกเกอร์กว่า 350 คน ตลอดงานทั้ง 4 วัน นอกจากนี้งาน Devcon 6 ยังก่อให้เกิดงานคู่ขนานหรือ side events อีกกว่า 300+ งาน ดึงนักพัฒนา วิศวกรซอฟท์แวร์ และผู้ความสามารถอื่นๆ ทั่วโลก เข้าไปสัมผัสและถ่ายทอดความรู้มากมายให้กับบุคลากรของประเทศผู้จัด และก่อให้เกิดเงินสะพัดในเศรษฐกิจเมืองอีกนับไม่ถ้วน
 
 ในการจัดงาน Devcon 7 ที่กรุงเทพในช่วงพฤศจิกายน 2567 นี้ เราหวังว่าจะก่อให้เกิดการถ่ายทอดความรู้ เสริมสร้างและพัฒนาอุตสาหกรรมซอฟท์แวร์และบล็อกเชน รวมถึงดึงดูดเงินเข้าประเทศไทย กระตุ้นให้เกิดการจับจ่ายใช้สอยและการท่องเที่ยวอีกมาก
 
-ศึกษางาน Devcon 6 ที่ผ่านมา:
+### ศึกษางาน Devcon 6 ที่ผ่านมา
 - บล็อกสรุปงานอย่างเป็นทางการ (ภาษาอังกฤษ): https://blog.ethereum.org/en/2022/11/17/devcon-vi-wrap
 - วีดีโอสรุป: https://www.youtube.com/watch?v=lgTMm7J0t7c
 - วีดีโอทอล์คทั้งหมด: https://archive.devcon.org/archive/playlists/devcon-6/
+
+### ท่านสามารถมีส่วนร่วมกับ Devcon 7 ได้อย่างไร?
+
+- ติดตามการเปิดขายตั๋วเข้าร่วมงานที่ https://devcon.org/en/
+- จัดงานหรือกิจกรรมที่เกี่ยวข้องกับการวิจัยและพัฒนา Ethereum และขอ grant จาก https://esp.ethereum.foundation/devcon-grants
+- สมัครเข้าร่วมงาน ETHGlobal Bangkok hackathon: https://ethglobal.com/events/bangkok
+- ร่วมเป็นสปอนเซอร์งาน ETHGlobal Bangkok hackathon: https://ethglobal.com/partner
 
 ## Credits
 
