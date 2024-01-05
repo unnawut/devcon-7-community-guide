@@ -20,7 +20,7 @@ Made with ❤️ by local Ethereum communities in Southeast Asia.
 
 <!-- @todo #1 Add general overview of Southeast Asia -->
 <!-- @todo #1 Add Southeast Asia's blockchain landscape -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## Getting to know Thailand and Bangkok
 
@@ -35,7 +35,7 @@ Bangkok is a hotbed of tech talents, with over 100,000 local skilled IT professi
 Whether you’re interested in exploring the city’s rich history and culture, networking with fellow tech professionals, or organizing an international event, Bangkok has something to offer to everyone.
 
 <!-- @todo #1 Add more content about Thailand and Bangkok in general (non-crypto) -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## Thailand's Crypto Landscape
 
@@ -131,9 +131,15 @@ With a variety of options for travel around the city that is cheaper compared to
 - MRT Subway: another convenient and cheap option for transport. The MRT runs through the city center and connects to other areas. They can get crowded during peak hours, but they are fast and affordable
 - Private/pricier alternatives: taxi, Grab
 
+<!-- @todo #1 Add more details on transportation apps -->
+[contribution welcomed!]
+
 ### Accommodation
 
 Accommodations in Bangkok are reasonably priced and most offer great amenities. Budget hotels or hostels, mid-range hotels and luxury hotels cost from $10-20, $30-90 and upwards of $150 per night, respectively.
+
+<!-- @todo #1 Add accommodation in city center -->
+[contribution welcomed!]
 
 ### Safety and political stability
 
@@ -159,10 +165,34 @@ If you have some time to spare after the event and after networking with crypto 
 
 - Nature: Take a breather from the bustling city life by taking a walk or riding a bike around Bang Krajao, the peaceful green oasis known as the Green Lung of Bangkok. You can also take a relaxing stroll or jog around Benjakitti Park. To see Thai’s traditional way of living, visit Damnoen Saduak floating markets for the real experience
 
+<!-- @todo #1 Add list of museums to visit -->
+<!-- @todo #1 Add list of cultural places to visit -->
+<!-- @todo #1 Add list of food places to visit -->
+<!-- @todo #1 Add list of bars to visit -->
+<!-- @todo #1 Add list of concerts and activities that coincide with Devcon month, e.g. wonderfruit style -->
+<!-- @todo #1 Add other provinces to visit (Chiang Mai, Phuket, etc) and top attractions/activities, maybe also tailor to Devcon audience -->
+[contribution welcomed!]
+
+### Payments & Cash
+
+<!-- @todo #1 Add details on cash vs card adoption, QR code adoption, etc. -->
+[contribution welcomed!]
+
+### Mobile Plans
+
+<!-- @todo #1 cellular plan options -->
+[contribution welcomed!]
+
+### Food Delivery
+
+<!-- @todo #1 Add more details on food delivery apps -->
+[contribution welcomed!]
+
 ## Guide for Visiting Teams
 
+<!-- @todo #1 Add accommodations for teams, & co-working for large groups -->
 <!-- @todo #1 Add guide to organizing off-site in Thailand -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## Guide for Side Events
 
@@ -184,24 +214,24 @@ Find below locations that are perfect for hanging and networking that have hoste
 - Verve Rachada Bangkok (previous event: Aceplore Bangkok 2022 networking party
 
 <!-- @todo #1 Add more side event venue options -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ### Side Events out of Bangkok
 
 <!-- @todo #1 Add guide to organizing side events out of Bangkok -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## Guide for Nomads
 
 <!-- @todo #1 Add visa information for nomads -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## Guide for Company Setup
 
 <!-- @todo #1 Add info on business registration -->
 <!-- @todo #1 Add info on registering a web3 startup business -->
 <!-- @todo #1 Add info on applying for BOI company -->
-[contributions welcomed!]
+[contribution welcomed!]
 
 ## ข้อมูล Devcon สำหรับชาวไทย
 
@@ -248,7 +278,7 @@ The location proposal was contributed, reviewed and supported by the following t
 
 ## Maintainer
 
-While this guide is open to contributions, it is currently maintained by [EthPadThai](https://twitter.com/ethpadthai) team:
+While this guide is open to contribution, it is currently maintained by [EthPadThai](https://twitter.com/ethpadthai) team:
 
 - Twitter: https://twitter.com/ethpadthai
 - Telegram: https://t.me/ethpadthai
